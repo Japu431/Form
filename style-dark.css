@@ -1,0 +1,38 @@
+body.dark {
+  background-color: #3b1f8f;
+  color: white;
+
+  transition: all ease-in-out 0.6s;
+}
+
+body.dark h1 {
+    font-size: 32px;
+    letter-spacing: 1px;
+    margin: 20px 0;
+    color: white;
+    transition: all ease 0.7s;
+}
+
+body.dark form {
+    background-color: #cecdcd;
+    transition: all ease 0.7s;
+}
+
+body.dark form label {
+    color: black;
+    transition: all ease 0.7s;
+}
+
+
+body.dark .btn-login {
+   background-color: #5e48a5;
+}
+
+body.dark .btn-login:hover {
+   background-color: #735bc3;
+}
+
+body.dark .squares li{
+    background-color: #a60ed4;
+    transition: all ease 0.9s;
+}
